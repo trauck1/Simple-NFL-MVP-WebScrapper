@@ -21,9 +21,13 @@ The script will validate your input
 If valid, it will scrape the data and display the MVP winner
 
 **Example Output**
+
 NFL AP MVP winner by year!
+
 What year would you like(1961-2024): 2007
+
 Scraping 2007 NFL AP MVP...
+
 The 2007 AP MVP was Tom Brady
 
 **Details**
